@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning model-based RL. <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 Contact me by jrn19@mails.tsinghua.edu.cn
 
-<!---
 [![jiaruonan's github stats](https://github-readme-stats.vercel.app/api?username=jiaruonan&show_icons=true)](https://github.com/jiaruonan/)
---->
 
 <!---
 jiaruonan/jiaruonan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
